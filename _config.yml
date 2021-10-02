@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Blaumagier"
-  avatar           : "/assets/images/proflie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Hello.**"
   location         : "Hankyong National Univ, South Korea"
   email            : #
