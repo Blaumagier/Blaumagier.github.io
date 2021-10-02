@@ -114,24 +114,22 @@ author:
   location         : "Hankyong National Univ, South Korea"
   email            : #
   links:
-
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:duddnjs7909@gmail.com
-    
-          - label: "Website"
+      url: mailto:lunarfate0418@gmail.com
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-    # url: "https://your-website.com"
-          - label: "Twitter"
+      # url: "https://your-website.com"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-    # url: "https://twitter.com/"
-          - label: "Facebook"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-    # url: "https://facebook.com/"
-          - label: "GitHub"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-    url: "https://github.com/Blaumagier"
-              - label: "Instagram"
+      url: "https://github.com/Blaumagier"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       
       
